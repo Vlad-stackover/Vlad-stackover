@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vlad-stackover
-- 👀 I’m interested in Game development and android app
-- 🌱 I’m currently learning c# and java
+- 👀 I’m interested in Whatever
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... strixus480@gamil.com
 
 <!---
 Vlad-stackover/Vlad-stackover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
