@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vlad-stackover
-- 👀 I’m interested in Web
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... strixus480@gamil.com
 
