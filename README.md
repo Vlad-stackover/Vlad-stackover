@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Vlad-stackover
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... strixus480@gamil.com
+- 📫 How to reach me ... gruzinvlad96@gmail.com
 
 <!---
 Vlad-stackover/Vlad-stackover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
